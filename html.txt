@@ -1,0 +1,15 @@
+﻿<!doctype html>
+<html lang="{{lang}}">
+
+<head>
+  <meta charset="utf-8">
+  <title>{{title}}</title>
+  {{stylesheet}}
+</head>
+
+<body>
+  
+  {{js}}
+</body>
+
+</html>

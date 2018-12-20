@@ -1,0 +1,18 @@
+{
+  "name": "templ",
+  "version": "1.0.0",
+  "description": "Creats an HTML template in the current directory.",
+  "main": "index.js",
+  "bin": {
+  "tmpl": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Harshbarger",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "mustache": "^3.0.1"
+  }
+}
